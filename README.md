@@ -1,5 +1,5 @@
 # NumberToLetterAr
-a php class for convert numbers to letters en arabic language
+a php class to convert numbers to letters en arabic language
 
 # How to Use It
 ```php
